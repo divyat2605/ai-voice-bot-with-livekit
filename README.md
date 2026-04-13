@@ -271,15 +271,6 @@ Contributions are welcome! Fork the repo, make your changes, and open a pull req
 
 ---
 
-## 📬 Stay Updated
-
-**Get a FREE AI Engineering resource pack** when you subscribe to our newsletter — tutorials, project templates, and weekly insights on building production AI systems.
-
-[![Newsletter](https://img.shields.io/badge/Subscribe-Newsletter-FF6B6B?style=for-the-badge)](https://your-newsletter-link.com)
-
-
----
-
 <div align="center">
 
 Built with ❤️ using LiveKit · TruGen · Deepgram · OpenAI · Cartesia · Supabase
