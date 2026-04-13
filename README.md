@@ -120,7 +120,7 @@ and are currently on metformin 500mg. Is that still the case, or has anything ch
 ### 1. Clone & install
 
 ```bash
-git clone https://github.com/yourname/medivoice.git
+git clone https://github.com/divyat2605/ai-voice-bot-with-livekit.git
 cd medivoice
 ```
 
